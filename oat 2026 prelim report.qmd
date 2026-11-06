@@ -238,11 +238,14 @@ dat2 |>
 
 ```{r}
 dat2 |> 
-  group_by(variety) |> 
+  # group_by(variety) |> 
   summarise(
-    mean = round(mean(yield_combine32TW_buA)),
+    # mean = round(mean(yield_combine32TW_buA)),
+    mean = round(mean(yield_combineAdjTW_buA, na.rm=T)),
     sd = round(mean(yield_combine32TW_buA)),
-    n = n() )
+    n = n(),
+    moisture = round(mean(moisture_perten5200, na.rm=T)), 
+    testwegith = round(mean(testweight_perten5200, na.rm=T)))
 ```
 
 ```{r}
@@ -439,9 +442,5 @@ data_long |>
     y = "Value"
   ) +
   theme(axis.text.x = element_text(angle=45, hjust=1))
-
-```
-
-```{r}
 
 ```
