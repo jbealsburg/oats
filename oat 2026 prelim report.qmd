@@ -20,6 +20,8 @@ editor_options:
 
 link to data:[ https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7TwHpZvqA6yte4kpffxY/edit?gid=71330303#gid=71330303](https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7TwHpZvqA6yte4kpffxY/edit?gid=71330303#gid=71330303)
 
+\newpage
+
 # Summary
 
 ## Narrative
@@ -206,6 +208,24 @@ dat2 |>
 - combine and hand seem to track similarly for AdjTW
 
 - Very low yielding plots unsurprisingly do not have TW data
+
+## Lodging
+
+```{r}
+dat2 |> 
+  ggplot(aes(lodgingscore_10flat_0erect, yield_combine32TW_buA)) + 
+  geom_point()
+
+dat2 |> 
+  ggplot(aes(variety, lodgingscore_10flat_0erect)) + 
+  geom_boxplot()
+```
+
+- Lots of lodging
+
+- Sumo seems to have lower lodging
+
+- No obvious trend between lodging and yield so not really going to investigate further
 
 ```{r}
 dat2 |> 
