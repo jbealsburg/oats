@@ -18,7 +18,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-link to data:[ https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7TwHpZvqA6yte4kpffxY/edit?gid=71330303#gid=71330303](https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7TwHpZvqA6yte4kpffxY/edit?gid=71330303#gid=71330303)
+link to data:<https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7TwHpZvqA6yte4kpffxY/edit?gid=71330303#gid=71330303>
 
 \newpage
 
@@ -28,7 +28,7 @@ link to data:[ https://docs.google.com/spreadsheets/d/1-dI9AvKNXQALnqeG1BHwhA_7T
 
 This trial was planted to gain familiarity with the oat/barley lab equipment. Trial was planted in the oat preliminary yield trial area on st paul field F1 on 29Apr2026 using the 10 row almaco drill which seeds 6 rows of a packet and the remaining 4 are winter wheat fill.
 
-We planted 6 row plots which result in 3.5 ft x 12 ft plots, then trimmed them to 3.5 ft x 10 ft. The barley lab cultivated the plots during emergence but did not handweed our variety trial. As a result, the trial got weedy because we did not maintain the trial during the fieldseason. We did one handweeding event right before harvest to remove very large weeds (\~2 hrs of work with 3 people). We then combine harvested the plots on August 5th.
+We planted 6 row plots which result in 3.5 ft x 12 ft plots, then trimmed them to 3.5 ft x 10 ft. The barley lab cultivated the plots during emergence but did not handweed our variety trial. As a result, the trial got weedy because we did not maintain the trial during the fieldseason. From 22Jun - 22Jul the trial was very weedy. We did one handweeding event right before harvest (July 22) to remove very large weeds (\~2 hrs of work with 3 people). We then combine harvested the plots on August 5th.
 
 ## Questions
 
